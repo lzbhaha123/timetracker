@@ -1,0 +1,44 @@
+
+
+.selection_bar select{
+    font-size: 25px;
+    padding: 5px;
+    width: 90%;
+    margin: 30px auto 0px;
+}
+
+.selection_bar button{
+    padding: 10px;
+    font-size: 25px;
+    border: none;
+    background: #aaccff;
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 90%;
+    margin: 10px auto;
+}
+
+.selection_bar .button_frozen{
+    padding: 10px;
+    font-size: 25px;
+    border: none;
+    background: #ababab;
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 90%;
+    margin: 10px auto;
+}
+
+.list_table{
+    margin: 10px auto;
+    width: 90%;
+}
+.list_table thead{
+    background: #aaccff;
+}
+
+.list_table td{
+    border-bottom: 1px solid #696969;
+    padding: 5px 0px;
+}
+
